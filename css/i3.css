@@ -1,5 +1,6 @@
 .row::after { content:""; clear:both; display:table; } 
 .section{background-color:lavender;border:1px solid black;}
+header #headMenu{float:right;border:solid 1px gray;margin:20px 0 0 0;}
 [class*="col-"] { float:left; padding:10px;} 
 .header, .footer { background-color:lightblue; color:green; padding:10px;border:1px solid black;}
 .menu  ul, .banner ul { list-style-type:none; }  
